@@ -8,7 +8,7 @@ android {
 
     defaultConfig {
         applicationId = "com.wireview.receiver"
-        minSdk = 30
+        minSdk = 28
         targetSdk = 36
         versionCode = 20
         versionName = "1.1.20"
